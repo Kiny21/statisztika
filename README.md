@@ -1,0 +1,2 @@
+# statisztika
+R simple tasks.
